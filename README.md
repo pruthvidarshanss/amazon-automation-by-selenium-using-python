@@ -27,10 +27,10 @@
 
 ## `Automation Demo`
 
-![Amazon](readme_assets/automation.gif)
+![Amazon](readme_assets/automation_480p.gif)
 
 ## `Developer`
 
-|[Pruthvi Darshan S S]()|
+|[Pruthvi Darshan S S](https://github.com/pruthvidarshanss)|
 |-----------------------|
 |![DP](readme_assets/dp.png)|
