@@ -27,7 +27,7 @@
 
 ## `Automation Demo`
 
-![Amazon]()
+![Amazon](readme_assets/automation.gif)
 
 ## `Developer`
 
